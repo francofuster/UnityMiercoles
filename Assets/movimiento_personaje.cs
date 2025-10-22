@@ -20,10 +20,12 @@ public class movimiento_personaje : MonoBehaviour
         if (Input.GetKey(KeyCode.D))
         {
             transform.position += new Vector3(Velocidad * Time.deltaTime, 0f, 0f);
+            // rb.linearVelocity = new Vector2(Velocidad * Time.deltaTime, 0f);
         }
         if (Input.GetKey(KeyCode.A))
         {
             transform.position -= new Vector3(Velocidad * Time.deltaTime, 0f, 0f);
+            // rb.linearVelocity = new Vector2(-Velocidad * Time.deltaTime, 0f);
         }
         if (Input.GetKeyDown(KeyCode.Space) &&   puedeSaltar)    
         {

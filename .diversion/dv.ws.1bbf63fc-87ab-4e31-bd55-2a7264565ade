@@ -1,0 +1,14 @@
+{
+  "WorkspaceID": "dv.ws.1bbf63fc-87ab-4e31-bd55-2a7264565ade",
+  "RepoID": "dv.repo.5a93903e-0ab6-4432-baac-fb7f2c99c804",
+  "Path": "C:\\Users\\Casa del Futuro - 19\\UnityMiercoles",
+  "AccountID": "Google_117568863194200223002",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": true,
+  "RepoName": "UnityMiercoles",
+  "ReadOnly": false,
+  "DigestMethod": "sha1"
+}

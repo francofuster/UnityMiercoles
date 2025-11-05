@@ -7,16 +7,17 @@ TagManager:
   - Floor
   - pinches
   - enemigo
+  - Ataque
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Enemy
+  - PlayerAttack
+  - EnemyAttack
   - 
   - 
   - 
